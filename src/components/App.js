@@ -1,7 +1,6 @@
-import '../assets/css/App.css'
 import React, { Component } from 'react'
 
-class App extends React.Component {
+export class App extends React.Component {
   render() {
     return (
       <div>
@@ -12,5 +11,3 @@ class App extends React.Component {
     )
   }
 }
-
-export default App
